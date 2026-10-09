@@ -6,3 +6,7 @@ Implementing Kmeans Clustering Algorithm without using built in functions
 
 ## Assignment 3
 A NumPy-based implementation of Binary Logistic Regression from scratch, using a synthetic dataset generated with make_blobs().
+
+## Assignment 4
+Page Rank Algorithm from Scratch
+
